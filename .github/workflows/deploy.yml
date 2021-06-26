@@ -33,3 +33,4 @@ jobs:
         with:
           inlineScript: |
             az deployment group create --resource-group "gagan-rg" --template-file StorageAccount1/sa1.json
+            
