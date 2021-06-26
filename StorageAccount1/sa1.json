@@ -6,11 +6,11 @@
     "variables": {},
     "resources": [
         {
-            "name": "gagan-test-st001",
+            "name": "gagantestst001",
             "type": "Microsoft.Storage/storageAccounts",
             "apiVersion": "2019-06-01",
             "tags": {
-                "displayName": "gagan-test-st001"
+                "displayName": "gagantestst001"
             },
             "location": "[resourceGroup().location]",
             "kind": "StorageV2",
